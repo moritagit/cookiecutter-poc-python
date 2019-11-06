@@ -1,4 +1,5 @@
 {
     "repository_name": "PoC",
-    "package_name": "src"
+    "package_name": "src",
+    "description": ""
 }
