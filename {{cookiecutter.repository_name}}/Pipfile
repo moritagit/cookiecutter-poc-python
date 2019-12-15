@@ -4,6 +4,11 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+pytest-cov = "*"
+pytest = "*"
+pytest-randomly = "*"
+autopep8 = "*"
+flake8 = "*"
 
 [packages]
 
