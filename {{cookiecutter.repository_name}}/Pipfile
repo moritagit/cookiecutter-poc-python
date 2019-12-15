@@ -7,6 +7,8 @@ verify_ssl = true
 pytest-cov = "*"
 pytest = "*"
 pytest-randomly = "*"
+autopep8 = "*"
+flake8 = "*"
 
 [packages]
 
